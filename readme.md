@@ -14,6 +14,9 @@
 Проверка писем [ссылка](https://putsmail.com/)
 
 
+Inliner css [ссылка](https://putsmail.com/inliner)
+
+
 Сервис для залития изображений [ссылка](https://radikal.ru/)
 
 (взято с канала MaxGraph)
