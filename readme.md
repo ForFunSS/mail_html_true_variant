@@ -19,3 +19,14 @@ Inliner css [ссылка](https://putsmail.com/inliner)
 
 Сервис для залития изображений [ссылка](https://radikal.ru/)
 
+Безопасные шрифты, поддерживающиеся в большинстве почт
+
+font-family: Arial, Helvetica, sans-serif;
+font-family: 'Arial Black', Gadget, sans-serif;
+font-family: Georgia, serif;
+font-family: 'MS Sans Serif', Geneva, sans-serif;
+font-family: 'MS Serif', 'New York', sans-serif;
+font-family: Tahoma, Geneva, sans-serif;
+font-family: 'Times New Roman', Times, serif;
+font-family: 'Trebuchet MS', Helvetica, sans-serif;
+font-family: Verdana, Geneva, sans-serif;
