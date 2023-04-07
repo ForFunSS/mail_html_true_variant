@@ -21,7 +21,7 @@ Inliner css [ссылка](https://putsmail.com/inliner)
 
 Безопасные шрифты, поддерживающиеся в большинстве почт
 
-font-family: Arial, Helvetica, sans-serif;
+font-family: Arial, Helvetica, sans-serif; /n
 font-family: 'Arial Black', Gadget, sans-serif;
 font-family: Georgia, serif;
 font-family: 'MS Sans Serif', Geneva, sans-serif;
